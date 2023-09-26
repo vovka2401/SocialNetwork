@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCZQ-HHNG2_H2mkoC_OReokNQS7hjN0seE</string>
+	<string>AIzaSyDquzs7WLXqNff5jL2ibRYfT4_YQj7f_uE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>744458625814</string>
+	<string>915547575735</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>vovka-2401.SocialNetwork</string>
 	<key>PROJECT_ID</key>
-	<string>socialnetwork-6d85e</string>
+	<string>socialnetwork2-47252</string>
 	<key>STORAGE_BUCKET</key>
-	<string>socialnetwork-6d85e.appspot.com</string>
+	<string>socialnetwork2-47252.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:744458625814:ios:c691301fe8cdc0c29d6637</string>
+	<string>1:915547575735:ios:2695644f18a5f6c7cbc432</string>
 </dict>
 </plist>
